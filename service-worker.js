@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.5a443a5b207588fe7dbbabe88e76dc61.js"
+  "/WEB-DISPLAY/precache-manifest.5cd937971f653c9ef1d9f84899a89952.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "sign-demo2"});
